@@ -1,0 +1,2 @@
+# ee
+Simple EventEmitter js
